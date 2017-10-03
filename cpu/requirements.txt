@@ -1,0 +1,13 @@
+Keras==2.0.8
+opencv-python==3.3.0.10
+matplotlib==2.0.2
+scikit-image==0.13.0
+kaggle-cli==0.12.2
+pymongo==3.5.1
+
+#cxflow>=0.8.1
+numpy>=1.13.1
+pandas==0.20.3
+click==6.7
+h5py==2.7.0
+requests==2.18.4
